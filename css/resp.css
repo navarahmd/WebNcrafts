@@ -1,0 +1,333 @@
+/*************Responsive Styles*****************/
+/***************iPhone Portrait**************/
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+	.container {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents h1 {
+		font-size: 40px;
+		line-height: normal;
+	}
+
+	.banner-section .slick-dots,
+	.banner-section .slider__counter {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents .banner-popup {
+		position: relative;
+	}
+
+	footer .footer-menu ul li {
+		flex-basis: 45%;
+		margin: 10px 0px;
+	}
+
+	footer .footer-menu ul {
+		flex-wrap: wrap;
+	}
+
+	header .navbar .navbar-brand img {
+		width: 150px;
+	}
+
+	.navbar-toggler-icon {
+		height: 4px;
+		margin: 2px 0px;
+		background: #333;
+		outline: none;
+	}
+
+	.navbar-toggler {
+		display: flex;
+		flex-direction: column;
+		border: none;
+		outline: none;
+	}
+
+	.career-section {
+		background-position: center;
+		padding-top: 150px;
+	}
+
+	.career-section .layout-contents h2 {
+		color: #ced4da;
+		font-size: 40px;
+	}
+
+	header .navbar {
+		padding: 20px 15px;
+	}
+
+	.banner-section .banner-contents {
+		background-size: cover;
+	}
+
+	header .navbar-nav .nav-item .nav-link.nav-cta {
+		margin: auto;
+	}
+
+	header .navbar-nav .nav-item {
+		margin-bottom: 15px;
+	}
+
+	.career-section .right-img img {
+		margin-top: 30px;
+	}
+
+	.copyright-contents {
+		flex-direction: column;
+	}
+
+	.copyright-contents p {
+		text-align: center;
+	}
+	.services-section .service-col{
+		margin: 10px 0px;
+	}
+}
+
+/**********************iPhone Landscape*************/
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+	.container {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents h1 {
+		font-size: 40px;
+		line-height: normal;
+	}
+
+	.banner-section .slick-dots,
+	.banner-section .slider__counter {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents .banner-popup {
+		position: relative;
+	}
+
+	footer .footer-menu ul li {
+		flex-basis: 45%;
+		margin: 10px 0px;
+	}
+
+	footer .footer-menu ul {
+		flex-wrap: wrap;
+	}
+
+	header .navbar .navbar-brand img {
+		width: 150px;
+	}
+
+	.navbar-toggler-icon {
+		height: 4px;
+		margin: 2px 0px;
+		background: #333;
+		outline: none;
+	}
+
+	.navbar-toggler {
+		display: flex;
+		flex-direction: column;
+		border: none;
+		outline: none;
+	}
+
+	.career-section {
+		background-position: center;
+		padding-top: 150px;
+	}
+
+	.career-section .layout-contents h2 {
+		color: #ced4da;
+		font-size: 40px;
+	}
+
+	header .navbar {
+		padding: 20px 15px;
+	}
+
+	.banner-section .banner-contents {
+		background-size: cover;
+	}
+
+	header .navbar-nav .nav-item .nav-link.nav-cta {
+		margin: auto;
+	}
+
+	header .navbar-nav .nav-item {
+		margin-bottom: 15px;
+	}
+
+	.career-section .right-img img {
+		margin-top: 30px;
+	}
+
+	.copyright-contents {
+		flex-direction: column;
+	}
+
+	.copyright-contents p {
+		text-align: center;
+	}
+	.services-section .service-col{
+		margin: 10px 0px;
+	}
+}
+
+/*************************iPad Portrait***************/
+@media only screen and (max-width: 985px) and (min-width: 768px) {
+	.container {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents h1 {
+		font-size: 40px;
+		line-height: normal;
+	}
+
+	.banner-section .slick-dots,
+	.banner-section .slider__counter {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+
+	.banner-section .banner-contents .banner-popup {
+		position: relative;
+	}
+
+	footer .footer-menu ul li {
+		flex-basis: 45%;
+		margin: 10px 0px;
+	}
+
+	footer .footer-menu ul {
+		flex-wrap: wrap;
+	}
+
+	header .navbar .navbar-brand img {
+		width: 150px;
+	}
+
+	.navbar-toggler-icon {
+		height: 4px;
+		margin: 2px 0px;
+		background: #333;
+		outline: none;
+	}
+
+	.navbar-toggler {
+		display: flex;
+		flex-direction: column;
+		border: none;
+		outline: none;
+	}
+
+	.career-section {
+		background-position: center;
+		padding-top: 150px;
+	}
+
+	.career-section .layout-contents h2 {
+		color: #ced4da;
+		font-size: 40px;
+	}
+
+	header .navbar {
+		padding: 20px 15px;
+	}
+
+	.banner-section .banner-contents {
+		background-size: cover;
+	}
+
+	header .navbar-nav .nav-item .nav-link.nav-cta {
+		margin: auto;
+	}
+
+	header .navbar-nav .nav-item {
+		margin-bottom: 15px;
+	}
+
+	.career-section .right-img img {
+		margin-top: 30px;
+	}
+
+	.copyright-contents {
+		flex-direction: column;
+	}
+
+	.copyright-contents p {
+		text-align: center;
+	}
+	.services-section .service-col{
+		flex-direction: column;
+	}
+
+}
+
+/**************iPad Landscape***************/
+@media only screen and (max-width: 1024px) and (min-width: 986px) {
+	.container {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+	.banner-section .slick-dots,
+	.banner-section .slider__counter {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+	header .navbar-nav .nav-item .nav-link{
+		padding: 0px 25px;
+	}
+	header .navbar-nav .nav-item .nav-link.nav-cta{
+		margin-left: 50px;
+	}
+	header .navbar .navbar-brand img {
+		width: 150px;
+	}
+	header .navbar .navbar-brand img {
+		width: 160px;
+	}
+	footer .footer-menu ul a{
+		padding-right: 25px;
+	}
+
+}
+
+/*******************************************/
+
+ @media only screen and (max-width: 1180px) and (min-width: 1025px) {
+	.container {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+	.banner-section .slick-dots,
+	.banner-section .slider__counter {
+		max-width: 90% !important;
+		width: 90% !important;
+		margin: auto;
+	}
+	footer .footer-menu ul a{
+		padding-right: 25px;
+	}
+
+}
+
+/*******************************************/
